@@ -10,6 +10,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -37,6 +38,4 @@ section{
 }
 .padding{
     padding-right: 100px;
-}
-]
 }

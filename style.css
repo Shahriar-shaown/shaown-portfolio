@@ -8,7 +8,7 @@ body{
 .pp{
     color: darkgoldenrod;
 }
-section{
+.flexible-cont{
     display: flex;
     margin-bottom: 150px;
 }
